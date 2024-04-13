@@ -1,0 +1,32 @@
+             -- Variaveis --
+  int: declarar numeros inteiros(42,0,-144)
+  long: declarar numeros inteiros muito grande (123456789)
+  float: declarar numeros com casas decimais (1,2;1,5)
+  double:declarar números com muitas casas decimais (3,14111111111)
+  char: armazena um caracter ( A,B,C,D ...)
+  boolean: declarar verdadeiro ou falso(sim ou não )
+  quando é número não usar 'aspas' simples 
+  quando for usar número quebrado igual a altura no ex 1 usar . não virgula
+  no java não pode usar acentos, caracters especiais nem acentos 
+             -- Operações aritiméticas --
+  Soma : soma= x+y 
+  Subtração: subtracao= x-y
+  Multiplicação: multi =x*y
+  Divisão: divisao= x/y
+  Resto da divisão:resto = x % y.
+            --  atalhos de operações aritiméticas --
+  idade ++ ;
+    ou
+  idade = idade +;
+  idade -- ;
+    ou
+  idade = idade -1;]
+              -- Printar --  
+   System.out.print();
+  System.out.println();
+             -- Scanner ---
+  Scanner é uma clase em Java utilizada para ler valores digitados no teclado 
+  import java.util.Scanner;
+  Para criar uma variavel :
+  Scanner sc = new Scanner(System.in)
+  
